@@ -10,7 +10,7 @@ class Name {
 }
 public class HelloWorld {
     public static void main(String[] args) { 
-        System.out.println("Hello World !'");
+        System.out.println("Hello Worldasrt !'");
         Name s=new Name();
         s.firstName();
     }
